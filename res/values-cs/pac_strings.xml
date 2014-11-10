@@ -15,4 +15,10 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="appVersion">Informace o verzi</string>
+  <string name="no_perms">Tato aplikace vyžaduje žádná oprávnění.</string>
+  <string name="currentVersion">Aktuální verze:</string>
+  <string name="newVersion">Nová verze:</string>
+  <string name="not_available">není k dispozici</string>
+</resources>
