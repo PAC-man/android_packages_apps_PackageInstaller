@@ -15,4 +15,10 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="appVersion">Информация за Версията</string>
+  <string name="no_perms">Това приложение не изисква разрешения.</string>
+  <string name="currentVersion">Текуща Версия:</string>
+  <string name="newVersion">Нова Версия:</string>
+  <string name="not_available">не е налично</string>
+</resources>
