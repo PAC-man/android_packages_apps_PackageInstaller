@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="appVersion">Інформація про версію</string>
-  <string name="no_perms">Цей додаток не потребує спеціальних дозволів.</string>
-  <string name="currentVersion">Поточна версія: </string>
-  <string name="newVersion">Нова версія:</string>
-  <string name="not_available">не доступно</string>
+  <string name="appVersion">Informacje o wersji</string>
+  <string name="no_perms">Ta aplikacja nie wymaga żadnych uprawnień.</string>
+  <string name="currentVersion">Aktualna wersja:</string>
+  <string name="newVersion">Nowa wersja:</string>
+  <string name="not_available">Niedostępne</string>
 </resources>
